@@ -1,1 +1,1 @@
-passwod generator project  develoed by   Mahedi Hasan 
+password generator project  develoed by   Mahedi Hasan 
