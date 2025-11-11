@@ -4,8 +4,11 @@
 
 
 it is a c++ based project and it has three constrainsts . at first, users are asked three questions:
+
                                       1.password length
+                                      
                                       2.Are numeric characters / numbers required in the password? (yes/no)
+                                      
                                       3.Are special characters required in the password? (yes/no)
 
 
