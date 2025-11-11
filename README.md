@@ -36,6 +36,8 @@ how solved the constrinsts:
 
 
 
+
+
 Screenshots: 
 ![image alt](https://github.com/mahedi195/Password-Generator/blob/cc8e8b1b3140ccebea149fc8fde87ad96aad2dc6/screenshots/Screenshot%202025-11-11%20155618.png)
 ![image alt](https://github.com/mahedi195/Password-Generator/blob/cc8e8b1b3140ccebea149fc8fde87ad96aad2dc6/screenshots/Screenshot%202025-11-11%20155637.png)
@@ -46,7 +48,7 @@ Screenshots:
 
 
 
-#Demo video google drive: 
+Demo video google drive: 
 
 https://drive.google.com/file/d/1Xm5ipxOu_J8hcC4JF8Bvp7DDW6aTyQeB/view?usp=drive_link
 
