@@ -22,6 +22,9 @@ then a special character
 
 
 
+
+
+
 to chose first N-2 characters of english alphabet srand(time(0)) and rand() is used
 
 to chose a number from  0,1,2,3,..9  , rand() is used
